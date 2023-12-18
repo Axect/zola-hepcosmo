@@ -1,0 +1,158 @@
+[
+    {
+        "position": "Professor",
+        "index": 100,
+        "name": "Seong Chan Park",
+        "email": "sc.park@yonsei.ac.kr",
+        "link": "https://scholar.google.co.kr/citations?user=-1Fa6n0AAAAJ&hl=ko",
+        "link_type": "Google Scholar",
+        "location": "S308"
+    },
+    {
+        "position": "Research Professor",
+        "index": 200,
+        "name": "Dong-Won Jung",
+        "email": "dongwon.jung@gmail.com",
+        "location": "S311"
+    },
+    {
+        "position": "Post-Doc",
+        "index": 300,
+        "name": "Anirban Biswas",
+        "email": "anirban.biswas.sinp@gmail.com",
+        "location": "S555A"
+    },
+    {
+        "position": "Post-Doc",
+        "index": 400,
+        "name": "Ui Min",
+        "email": "alsdml234@kaist.ac.kr",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 440,
+        "name": "Tae-Geun Kim",
+        "email": "axect@outlook.kr",
+        "link": "https://axect.github.io",
+        "link_type": "Blog",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 460,
+        "name": "Yeji Park",
+        "email": "yeji.park.yeji@gmail.com",
+        "link": "https://github.com/hiilynn",
+        "link_type": "Github",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 461,
+        "name": "Kayoung Ban",
+        "email": "ban94gy@gmail.com",
+        "link": "http://github.com/KayoungBan",
+        "link_type": "Github",
+        "img": "https://avatars1.githubusercontent.com/u/29973424?s=460&v=4",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 500,
+        "name": "Dhong Yeon Cheong",
+        "email": "dhongyeon@yonsei.ac.kr",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 510,
+        "name": "Sang Chul Hyun",
+        "email": "sangchul.hyeon@gmail.com",
+        "location": "S555A"
+    },
+    {
+        "position": "Graduate",
+        "index": 551,
+        "name": "Ju Hoon Son",
+        "email": "psiomega@yonsei.ac.kr",
+        "location": "S555A"
+    },
+    {
+        "position": "Alumni",
+        "index": 600,
+        "name": "Jong-Chul Park",
+        "location": "Assistant Professor, Chungnam Nat. Univ."
+    },
+    {
+        "position": "Alumni",
+        "index": 610,
+        "name": "Swarup Kumar Majee",
+        "location": "Assistant Professor, Department of Physics, Siksha Bhavana,  Visva-Bharati, Santiniketan, India."
+    },
+    {
+        "position": "Alumni",
+        "index": 620,
+        "name": "Yasuhiro Yamamoto",
+        "location": "Postdoctoral Researcher, National Centre for Nuclear Research (BP2), Warsaw, Poland"
+    },
+    {
+        "position": "Alumni",
+        "index": 630,
+        "name": "Kyung Sun Lee",
+        "location": "Postdoctoral Researcher, Korea Institute of Advanced Study (KIAS)"
+    },
+    {
+        "position": "Alumni",
+        "index": 650,
+        "name": "Dong Woo Kang",
+        "email": "kdwgod54@gmail.com",
+        "location": "Postdoctoral Researcher, Jeonbuk National University"
+    },
+    {
+        "position": "Alumni",
+        "index": 660,
+        "name": "Seodong Shin",
+        "email": "shinseodong@gmail.com",
+        "location": "Assistant Professor, Jeonbuk National University"
+    },
+    {
+        "position": "Alumni",
+        "index": 661,
+        "name": "Po-Yan Tseng",
+        "email": "tpoyan1209@gmail.com",
+        "location": "Assistant Professor, Tsinghua University"
+    },
+    {
+        "position": "Alumni",
+        "index": 662,
+        "name": "Donghun Lee",
+        "email": "27.d.h.lee@gmail.com",
+        "link": "http://elroilab.com/",
+        "link_type": "Company",
+        "location": "ELROILAB"
+    },
+    {
+        "position": "Alumni",
+        "index": 663,
+        "name": "Yongsoo Jho",
+        "email": "1jys34@gmail.com",
+        "link": "https://sites.google.com/view/yongsoojho",
+        "link_type": "Blog",
+        "location": "Postdoctoral Researcher, Weizmann Institute Israel"
+    },
+    {
+        "position": "Alumni",
+        "index": 664,
+        "name": "Sung Mook Lee",
+        "email": "sungmook.lee@yonsei.ac.kr",
+        "location": "Korea Advanced Institute of Science and Technology (KAIST)"
+    },
+    {
+        "position": "Alumni",
+        "index": 665,
+        "name": "Anna Antonova",
+        "email": "annaantonova.physicsdept@gmail.com",
+        "location": "-"
+    }
+]
