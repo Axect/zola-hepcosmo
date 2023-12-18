@@ -1,0 +1,38 @@
+# The URL the site will be built for
+base_url = "https://example.com"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zola-clean-blog"
+
+taxonomies = [
+  { name = "categories", paginate_by = 5 },
+  { name = "tags", paginate_by = 5 },
+]
+
+title = "Yonsei HEP-COSMO"
+description = "Yonsei High Energy Physics and Cosmology Group"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+# Put all your custom variables here
+author = "Tae-Geun Kim"
+clean_blog_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL/members", name = "Members"},
+    {url = "$BASE_URL/publications", name = "Publications"},
+    {url = "$BASE_URL/contact", name = "Contact"}
+]
+clean_blog_social = [
+    {url = "https://twitter.com", icon="fab fa-twitter"},
+    {url = "$BASE_URL/rss.xml", icon="fas fa-rss"}
+]
