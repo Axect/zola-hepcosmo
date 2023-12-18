@@ -1,8 +1,8 @@
 +++
 paginate_by = 5
 sort_by = "date"
-template = "section.html"
-title = "About"
+template = "publications.html"
+title = "Publications"
 
 [extra]
 image = "/img/GW.png"
