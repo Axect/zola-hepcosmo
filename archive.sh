@@ -5,7 +5,7 @@ current_date=$(date +%y%m%d)
 
 # Directory containing the files
 content_dir="content"
-archive_dir="content_archived"
+archive_dir="content/archives"
 
 # Create the archive directory if it doesn't exist
 mkdir -p "$archive_dir"

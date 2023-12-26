@@ -5,13 +5,17 @@ base_url = "https://axect.github.io/zola-hepcosmo-demo/"
 compile_sass = true
 
 # Whether to build a search index to be used later on by a JavaScript library
-build_search_index = false
+build_search_index = true
+
+# Feeds
+generate_feed = true
+feed_filename = "rss.xml"
 
 theme = "zola-hepcosmo-theme"
 
 taxonomies = [
-  { name = "categories", paginate_by = 5 },
-  { name = "tags", paginate_by = 5 },
+  { name = "categories", rss=true, paginate_by = 5 },
+  { name = "tags", rss=true, paginate_by = 5 },
 ]
 
 title = "Yonsei HEP-COSMO"
@@ -30,6 +34,7 @@ clean_blog_menu = [
     {url = "$BASE_URL/about", name = "About"},
     {url = "$BASE_URL/members", name = "Members"},
     {url = "$BASE_URL/publications", name = "Publications"},
+    {url = "$BASE_URL/archives", name = "Archives"},
     {url = "$BASE_URL/contact", name = "Contact"}
 ]
 clean_blog_social = [
