@@ -5,6 +5,6 @@ template = "section.html"
 title = "About"
 
 [extra]
-image = "/img/GW.png"
+image = "/img/axect_hep_cosmology_v6-min.png"
 +++
 Hello
