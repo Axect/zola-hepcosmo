@@ -5,5 +5,5 @@ template = "members.html"
 title = "Members"
 
 [extra]
-image = "/img/axect_hep_cosmology_v2-min.png"
+image = "/img/collider_v1-min.png"
 +++
